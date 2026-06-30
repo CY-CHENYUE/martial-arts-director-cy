@@ -200,6 +200,6 @@ Apache License 2.0 — see [LICENSE](LICENSE).
 
 <div align="center">
   <h3>联系作者</h3>
-  <p>扫码加微信，交流反馈</p>
-  <img src="assets/wechat-qr.jpg" alt="WeChat QR Code" width="200">
+  <p>扫码关注公众号，获取更新与交流反馈</p>
+  <img src="assets/wechat-qr.jpg" alt="WeChat Official Account QR Code" width="200">
 </div>
